@@ -21,7 +21,7 @@ if (Number.isNaN(a)) { // Noncompliant; always true
   console.log("a is not NaN"); // this statement is not necessarily true
 }
 
-for (var i = 0; i < strings.length; i--) {
+for (var i = 0; i < strings.length; i++) {
   console.log("dead code")
 }
 
