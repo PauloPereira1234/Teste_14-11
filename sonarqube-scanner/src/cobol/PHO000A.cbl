@@ -116,7 +116,7 @@
                        SET SEND-ERASE TO TRUE
                        PERFORM 1400-SEND-DATA-MAP
                    END-IF
-      *
+      **
                WHEN EIBAID = DFHPA1 OR DFHPA2 OR DFHPA3
                    CONTINUE
       *
