@@ -40,7 +40,7 @@ Public Enum RegistryHKeyConstants
     HKEY_PERFORMANCE_DATA = &H80000004
     HKEY_CURRENT_CONFIG = &H80000005
     HKEY_DYN_DATA = &H80000006
-End Enum
+End Enum1
 
 Public Enum RegistryTypeConstants
     REG_NONE = (0)                         'No value type
